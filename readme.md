@@ -102,3 +102,11 @@ Security : AES-256, hardware-backed secure storage, hashing (SHA-256),
 | P4    | Evidence System + Privacy Layer          | Q2          |
 | P5    | Field Pilot (Schools, NGOs, Communities) | Q3          |
 | P6    | Production Release                       | Q4          |
+
+
+👨 Auteur
+Ir Joseph ELEGBEDE
+💼 Développeur mobile et web  & analyste en Cybersécurité
+📍 Bénin
+🌐 LinkedIn: https://www.linkedin.com/in/joseph-elegbede-987998186/ 
+ | GitHub: https://github.com/elegbede01 
